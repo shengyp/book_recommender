@@ -26,3 +26,8 @@ Table of Contents
 
 ## e-Book
 1. 华校专. [AI技术笔记](http://huaxiaozhuan.com/). 
+
+
+2. 王东. [现代机器学习技术导论](http://166.111.134.19:7777/mlbook/)
+
+
