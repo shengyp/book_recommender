@@ -11,7 +11,7 @@ Table of Contents
 
 <!--   * [Datasets / Shared Tasks](#Datasets_Shared_Tasks) -->
   * [Book Recommendation](#Book_Recommendations)
-<!--   * [Multi-modal Information Extraction from Text](#Multi-modal_Information_Extraction_from_Text) -->
+  * [e-Book](#e-Book)
 <!--   * [Tutorials](#Tutorials) -->
 
 
@@ -24,4 +24,5 @@ Table of Contents
 
 
 
-
+## e-Book
+1. 华校专. [AI技术笔记](http://huaxiaozhuan.com/). 
