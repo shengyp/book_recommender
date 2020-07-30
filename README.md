@@ -10,9 +10,18 @@ Table of Contents
 
 
 <!--   * [Datasets / Shared Tasks](#Datasets_Shared_Tasks) -->
+  * [Book Publication](#Book_Publication)
   * [Book Recommendation](#Book_Recommendations)
   * [e-Book](#e-Book)
 <!--   * [Tutorials](#Tutorials) -->
+
+
+## Book_Publication
+1. [Springer图书出版](https://mp.weixin.qq.com/s/j0YFfhX6r5p82x_vkxw-WQ). 2019.09.22.
+
+
+2. [Springer会议论文集出版流程](https://mp.weixin.qq.com/s/3U4ixPterju1OREoE9gz9Q). 2019.06.11.
+
 
 
 <!-- ## Datasets_Shared_Tasks -->
@@ -28,6 +37,9 @@ Table of Contents
 1. 华校专. [AI技术笔记](http://huaxiaozhuan.com/). 
 
 
-2. 王东. [现代机器学习技术导论](http://166.111.134.19:7777/mlbook/)
+2. 王东. [现代机器学习技术导论](http://166.111.134.19:7777/mlbook/).
+
+
+
 
 
